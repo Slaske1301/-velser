@@ -1,0 +1,29 @@
+# applikation til skade anmeldelse
+"""
+name = input("Indtast dit navn: ")
+cpr = input("Indtast dit cpr nummer: ")
+fødselsdato = input("Indtast din fødselsdato: ")
+adresse = input("Indtast din adresse: ")
+telefonnummer = input("Indtast dit telefonnummer: ")
+mail = input("Indtast din e-mail: ")
+skadedato = input("Indtast skadedato: ")
+skadested = input("Indtast skadested: ")
+beskrivelse = input("Beskriv skaden: ")
+
+print("Tak for din anmeldelse, " + name + ". Vi vil behandle din sag hurtigst muligt.")
+"""
+
+# samtale
+"""
+print("Hej! Hvad hedder du?")
+name = input()
+print("Hej " + name + "!")
+print("hvor høj er du? ")
+height = input()
+if int(height) >= 180:
+    print("du er ret høj!")
+else:
+    print("wow du er jo en dværg!")
+"""
+
+# ny opgave

@@ -1,0 +1,17 @@
+# command chain (den sidste værdi der tilegnes bliver brugt)
+
+# int = integer
+# float = decimal number
+# str = string
+# bool = boolean (True/False)
+
+# hvis man har 2 strings og lægger dem sammen, så bliver de sat sammen (konkateneret)
+
+a = 2
+b= "3"
+c = a + b
+print(c)
+
+b = int(b)
+print(b)
+print(a+b)
