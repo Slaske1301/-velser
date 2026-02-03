@@ -7,6 +7,16 @@
 
 # hvis man har 2 strings og lægger dem sammen, så bliver de sat sammen (konkateneret)
 
+# add = +
+#subtract = -
+# multiply = *
+# divide = /
+# exponent = **
+
+# convert to different data types by int(), str(), float()
+
+
+
 a = 2
 b= "3"
 c = a + b

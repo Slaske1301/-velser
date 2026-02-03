@@ -1,0 +1,63 @@
+#####################
+# WEEK 2: EXERCISES #
+#####################
+
+# PARSON'S PROBLEMS
+# https://sokini.github.io/week2/week2_ex1.html
+# https://sokini.github.io/week2/week2_ex2.html
+# https://sokini.github.io/week2/bonus_ex.html
+#
+# EXERCISE 1
+# Make a program that asks the user for their name
+# and age and prints them in the same string.
+# Hint: Use str() when printing the age to convert it
+# to a string.
+
+# EXERCISE 2
+# In this exercise, you will write a program that can perform
+# basic mathematical operations (addition, subtraction,
+# multiplication, division).
+# Start by making two variables called number_1 and number_2.
+# Assign an integer to each of the variables, for instance,
+# 2 and 7.
+#
+# Now, write some code that adds the two numbers and prints
+# the result. Next, add code that performs the other basic
+# mathematical operations with the two numbers and prints the
+# results.
+
+
+# EXERCISE 3
+# Write a program that calculates and prints the total number of
+# seconds you have lived.
+# Use three variables: years, months, and days.
+# Convert each of the variables to seconds, and then add them
+# up to obtain the final result.
+# Again, remember to use str() when printing numbers.
+#
+# How to convert each component to component to seconds:
+# - years to seconds = years * 365 * 24 * 60 * 60
+# - months to seconds = months * 30 * 24 * 60 * 60
+# - days to seconds = days * 24 * 60 * 60
+
+# EXERCISE 4
+# Ingrid has a company that sells stickers. She decided that
+# she will have a sale giving customers 20% off of all stickers.
+# Make a program that takes an integer as an input and returns
+# the new, discounted price, which should also be an integer.
+#
+# Example: if the input is 100, the program should output the
+# discounted price 80 (not 80.0!)
+
+#####################
+# WEEK 2: OPTIONALS #
+#####################
+
+# OLD EXAM QUESTIONS
+# 2023 ordinary exam: Q1, Q2
+# 2023 re-exam: Q1, Q2
+
+# EXERCISE 5
+# Edit your program from exercise 3 such that it first asks
+# the user to input the values 'years', 'months', and 'days'
+# and then, prints the corresponding number of seconds
